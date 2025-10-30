@@ -51,8 +51,8 @@ Author not liable for any damages, direct or consequential.
 ---
 
 ## 6 Termination and Governing Law
-Terminates upon breach.  
-Governed by the laws of USA.
+This License terminates automatically upon breach.  
+No specific governing jurisdiction is asserted; the Author retains all rights under applicable copyright law.
 
 ---
 
