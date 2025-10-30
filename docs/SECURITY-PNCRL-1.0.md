@@ -1,6 +1,8 @@
 # ProjectFong AI Governance Framework — Security and Isolation Notes  
+Author: projectfong  
 Copyright (c) 2025 Fong  
-License: PNCRL-1.0  
+All Rights Reserved  
+License: PNCRL-1.0
 
 ---
 
