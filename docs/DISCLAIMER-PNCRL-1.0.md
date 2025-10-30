@@ -2,7 +2,7 @@
 Author: projectfong  
 Copyright (c) 2025 Fong  
 All Rights Reserved  
-License: PNCRL-1.0  
+License: ProjectFong Non-Commercial Research License (PNCRL-1.0)
 
 ---
 
