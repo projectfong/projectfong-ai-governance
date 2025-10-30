@@ -1,5 +1,7 @@
 # ProjectFong AI Governance Framework — Legal Disclaimer  
+Author: projectfong  
 Copyright (c) 2025 Fong  
+All Rights Reserved  
 License: PNCRL-1.0  
 
 ---
