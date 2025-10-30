@@ -65,7 +65,7 @@ It aligns with established cybersecurity frameworks and best practices (e.g., NI
 
 * Evidence categories: design overview, lineage summary, evaluation aggregates, approval logs.
 * Actual evidence files, hashes, and paths remain internal.
-* Under PNCRL-1.0 §6, any entity applying this framework must maintain logs of installation, access, and configuration changes within `/evidence/logs/YYYY-MM-DD/`, retained ≥ 180 days for research traceability.
+* Under PNCRL-1.0 §6, any entity applying this framework must maintain logs of installation, access, and configuration changes within `/evidence/logs_YYYY-MM-DD`, retained ≥ 180 days for research traceability.
 
 ---
 
@@ -90,7 +90,7 @@ This mock is licensed under the **ProjectFong Non-Commercial Research License (P
 
   > “Derived from Project Fong Research Work © 2025 Fong — used under PNCRL-1.0 for non-commercial research purposes.”
 * Evidence retention ≥ 180 days recommended.
-* Termination upon breach; governed by California law.
+* Termination upon breach; No specific governing jurisdiction is asserted; the Author retains all rights under applicable copyright law.  
   Full text: `LICENSE-PNCRL-1.0.md`.
 
 ---
